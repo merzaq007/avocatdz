@@ -80,8 +80,7 @@ export default function Footer({ setPage, t }) {
 
       <div className="footer__bottom">
         <div className="container footer__bottom-inner">
-          <p>© {year} Avocat Tiaret. {t.footer.rights}</p>
-          <p>{t.footer.dev} <a href="#" className="footer__dev-link">Billionaire2025</a></p>
+          <p>© {year} Avocat Tiaret. Tous droits réservés.</p>
         </div>
       </div>
 
